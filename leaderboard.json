@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T02:58:43.215197+00:00",
-  "run_id": "33480633508",
-  "run_url": "https://github.com/zaneni6/lemonade/actions/runs/33480633508",
+  "generated_at": "2026-09-10T02:59:08.345505+00:00",
+  "run_id": "33950269549",
+  "run_url": "https://github.com/zaneni6/lemonade/actions/runs/33950269549",
   "repo": "zaneni6/lemonade",
   "repo_url": "https://github.com/zaneni6/lemonade",
   "actions_url": "https://github.com/zaneni6/lemonade/actions/workflows/benchmark-regression.yml",
-  "commit": "e1b3168370e8b2472acdbe08298267a4b556cf9e",
+  "commit": "55f10a6a4ceffa07ab1af71bf3e0db40ca9361cc",
   "lemonade_version": null,
   "by_model_scenario": {},
   "history": {}
